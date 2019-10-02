@@ -238,6 +238,7 @@ export class SourceDestination extends EventEmitter {
 		'raw',
 		'dmg',
 		'sdcard',
+		'sdimg',
 		'rpi-sdimg',
 		'wic',
 	];
